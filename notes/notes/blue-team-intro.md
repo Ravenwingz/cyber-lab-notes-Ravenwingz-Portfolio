@@ -1,6 +1,6 @@
 # Blue Team Fundamentals
 
-**Date:** 2025-09-XX  
+**Date:** [08/29/2025]
 **Author:** Ravenwingz
 
 ## 1. Definition
