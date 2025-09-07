@@ -1,37 +1,44 @@
-# 🛡️ Cyber Lab Notes — Ravenwingz Portfolio
+# 🛡️ Cyber Lab Notes by Ravenwingz
 
-Welcome to my cybersecurity and digital analysis portfolio. I use this repository to document my hands-on work, tool creation, training labs, and certifications as I grow in the cyber and cloud security space.
-
----
-
-## 🔍 About Me
-
-I'm a cybersecurity professional with a Bachelor’s in Cybersecurity & Cyber Analysis, building toward certification and practical mastery in real-world environments. My focus is defensive security, SOC workflows, log analysis, and cloud hardening.
+Welcome to my personal cybersecurity lab notes! This repository contains my study notes, practice scripts, and summaries of hands-on tasks across various cybersecurity domains.
 
 ---
 
-## 🧠 Current Projects
+## 📁 Notes
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| `security-audit-toolkit` | Bash + Python CLI to scan for basic misconfigs | Python, Bash |
-| `log-analysis-lab` | Analyze and parse log files to identify anomalies | Regex, Python |
-| `cloud-sec-checklist` | AWS/Azure hardening playbooks and automation | AWS CLI, Python |
-| `malware-detection-playbook` | Notes and breakdowns of malware behavior | Markdown, Threat Analysis |
+Each Markdown file contains quick reference material, summaries, and commands related to a key area of cybersecurity:
 
----
-
-## 📜 Certifications in Progress
-
-- [ ] Certified in Cybersecurity (ISC²)
-- [ ] TryHackMe: SOC Level 1
-- [ ] CompTIA Security+ (Scheduled)
-- [ ] Google Cybersecurity Certificate
+- [`red-team-intro.md`](notes/red-team-intro.md): Offensive tools, enumeration tactics, and CTF prep
+- [`blue-team-intro.md`](notes/blue-team-intro.md): Defensive tools, detection strategies, and log analysis
+- [`security-audit-notes.md`](notes/security-audit-notes.md): Audit methodology, vulnerability scanning, and compliance
+- [`malware-analysis-basics.md`](notes/malware-analysis-basics.md): Basic static and dynamic malware analysis techniques
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Scripts & Resources
 
-- 🌐 [LinkedIn](https://linkedin.com/in/yourusername) *(update this link)*
-- 🧰 GitHub: [`@Ravenwingz`](https://github.com/Ravenwingz)
-- 📬 Contact: Raillyn@gmail.con
+These are bash scripts and tools for use in setting up a cyber lab or testing environment:
+
+- [`init-script.sh`](resources/scripts/init-script.sh): Initializes a Linux machine for a basic security lab
+
+---
+
+## 📌 Purpose
+
+This repo is part of my ongoing journey to break into the cybersecurity field. It demonstrates my ability to:
+
+- Organize knowledge into practical references
+- Script and automate security tool setups
+- Maintain clean and professional repositories
+
+---
+
+## 🧪 More Coming Soon
+
+- Packet capture examples
+- Log analysis challenges
+- Advanced script automation
+
+---
+
+> Built and maintained by Ravenwingz — Cybersecurity Enthusiast & Aspiring Analyst 🧠⚔️
